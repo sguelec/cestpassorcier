@@ -1,5 +1,5 @@
-# cestpassorcier
-récupère toutes les vidéos c'est pas sorcier sur youtube à partir d'une base sqlite, et d'un script PHP.
+# c'est pas sorcier ! 
+Ce script récupère toutes les vidéos de l'emmission "c'est pas sorcier" sur youtube à partir d'une base sqlite, et d'un script PHP.
 
 Tous les épisodes de l'emmission TV (99%) ont été référencés sur Youtube, sur le compte officiel "c'est pas sorcier", hormis 2-3 épisodes manquants référencés sur d'autre compte youtube
 
